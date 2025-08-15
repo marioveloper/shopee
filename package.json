@@ -1,0 +1,20 @@
+{
+  "name": "shopee",
+  "version": "1.0.0",
+  "description": "- Bootstrap\r  - Owl Carousel 2\r  - SCASS\r  - Font Awesome Icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"sass ./sass/style.scss ./css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioveloper/shopee.git"
+  },
+  "author": "marioveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioveloper/shopee/issues"
+  },
+  "homepage": "https://github.com/marioveloper/shopee#readme"
+}
